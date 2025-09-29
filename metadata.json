@@ -1,0 +1,5 @@
+{
+  "name": "HatiGPT",
+  "description": "An AI chatbot with an interface inspired by Google's Gemini, designed for helpful and intuitive conversations. Ask it anything!",
+  "requestFramePermissions": []
+}
